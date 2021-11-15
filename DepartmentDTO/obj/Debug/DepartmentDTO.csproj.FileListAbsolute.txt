@@ -1,0 +1,7 @@
+C:\Users\NARESH\source\repos\DepWebApp\DepartmentDTO\bin\Debug\DepartmentDTO.exe.config
+C:\Users\NARESH\source\repos\DepWebApp\DepartmentDTO\bin\Debug\DepartmentDTO.exe
+C:\Users\NARESH\source\repos\DepWebApp\DepartmentDTO\bin\Debug\DepartmentDTO.pdb
+C:\Users\NARESH\source\repos\DepWebApp\DepartmentDTO\obj\Debug\DepartmentDTO.csproj.AssemblyReference.cache
+C:\Users\NARESH\source\repos\DepWebApp\DepartmentDTO\obj\Debug\DepartmentDTO.csproj.CoreCompileInputs.cache
+C:\Users\NARESH\source\repos\DepWebApp\DepartmentDTO\obj\Debug\DepartmentDTO.exe
+C:\Users\NARESH\source\repos\DepWebApp\DepartmentDTO\obj\Debug\DepartmentDTO.pdb

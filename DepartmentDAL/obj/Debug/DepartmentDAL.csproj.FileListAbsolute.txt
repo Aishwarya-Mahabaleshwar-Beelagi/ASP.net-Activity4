@@ -1,0 +1,21 @@
+C:\Users\NARESH\source\repos\DepWebApp\DepartmentDAL\bin\Debug\DepartmentDAL.exe.config
+C:\Users\NARESH\source\repos\DepWebApp\DepartmentDAL\bin\Debug\DepartmentDAL.exe
+C:\Users\NARESH\source\repos\DepWebApp\DepartmentDAL\bin\Debug\DepartmentDAL.pdb
+C:\Users\NARESH\source\repos\DepWebApp\DepartmentDAL\bin\Debug\DepartmentDTO.exe
+C:\Users\NARESH\source\repos\DepWebApp\DepartmentDAL\bin\Debug\DepartmentDTO.pdb
+C:\Users\NARESH\source\repos\DepWebApp\DepartmentDAL\bin\Debug\DepartmentDTO.exe.config
+C:\Users\NARESH\source\repos\DepWebApp\DepartmentDAL\obj\Debug\DepartmentDAL.csproj.AssemblyReference.cache
+C:\Users\NARESH\source\repos\DepWebApp\DepartmentDAL\obj\Debug\DepartmentDAL.csproj.CoreCompileInputs.cache
+C:\Users\NARESH\source\repos\DepWebApp\DepartmentDAL\obj\Debug\DepartmentDAL.csproj.CopyComplete
+C:\Users\NARESH\source\repos\DepWebApp\DepartmentDAL\obj\Debug\DepartmentDAL.exe
+C:\Users\NARESH\source\repos\DepWebApp\DepartmentDAL\obj\Debug\DepartmentDAL.pdb
+C:\Users\Aditi Iyer\Desktop\New folder\DepWebApp\DepartmentDAL\bin\Debug\DepartmentDAL.exe.config
+C:\Users\Aditi Iyer\Desktop\New folder\DepWebApp\DepartmentDAL\bin\Debug\DepartmentDAL.exe
+C:\Users\Aditi Iyer\Desktop\New folder\DepWebApp\DepartmentDAL\bin\Debug\DepartmentDAL.pdb
+C:\Users\Aditi Iyer\Desktop\New folder\DepWebApp\DepartmentDAL\bin\Debug\DepartmentDTO.exe
+C:\Users\Aditi Iyer\Desktop\New folder\DepWebApp\DepartmentDAL\bin\Debug\DepartmentDTO.pdb
+C:\Users\Aditi Iyer\Desktop\New folder\DepWebApp\DepartmentDAL\bin\Debug\DepartmentDTO.exe.config
+C:\Users\Aditi Iyer\Desktop\New folder\DepWebApp\DepartmentDAL\obj\Debug\DepartmentDAL.csproj.AssemblyReference.cache
+C:\Users\Aditi Iyer\Desktop\New folder\DepWebApp\DepartmentDAL\obj\Debug\DepartmentDAL.csproj.CoreCompileInputs.cache
+C:\Users\Aditi Iyer\Desktop\New folder\DepWebApp\DepartmentDAL\obj\Debug\DepartmentDAL.exe
+C:\Users\Aditi Iyer\Desktop\New folder\DepWebApp\DepartmentDAL\obj\Debug\DepartmentDAL.pdb
